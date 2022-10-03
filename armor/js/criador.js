@@ -14,7 +14,7 @@ return`╭━━━━━◉                                       ◉━━━�
 ╭═══════◉
 ┆      ╔┉✼┉═༺◈✼❄️✼◈༻═┉✼┉╗
 ┆      ║
-┆      ║✼❄️ *Bot: ❄️ESDEATH BOT❄️*
+┆      ║✼❄️ *Bot: ❄️INDOBOT❄️*
 ┆      ║✼❄️ *Criador: Lotus*
 ┆      ║✼❄️ *Wa me Do Criador:* wa.me/+79220996692
 ┆      ║✼❄️ *Instagram: @esdesth.bot*
